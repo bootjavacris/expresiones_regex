@@ -1,0 +1,2 @@
+## ¿Qué son las expresiones regulares?
+Es una cadena de cáracteres/simbolos, que nos sirve para filtrar palabras/carácteres. Así podemos encontrar por ejemplo, todos los mails de un texto grande e ir más rapido. Se usa también para validar campos en programación.
