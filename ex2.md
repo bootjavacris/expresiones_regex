@@ -3,7 +3,7 @@
 coco coco cocodrilo coco cocodrilo cocodrilo
 ```
 **Respuesta:**
->\b(\w{4})|drilo
+>coco|drilo
 
 ### 📌Como seleccionar varias líneas
 Encontrarlas mediante a grupos con reflexión y con el nombre del grupo sin \1 eliminar una de ellas y poner el texto con la primera letra de cada palabra en mayúsculas
