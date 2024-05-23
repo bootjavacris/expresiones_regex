@@ -28,3 +28,13 @@ Principales motores:
 - re
 
 ### 1-6 ¿Qué es un patrón? ¿Y un match?
+El patrón son los caracteres que utilizamos para buscar un match. El match es la coincidencia de este patrón.
+
+### 1-7 Saca el esquema del siguiente patrón ^Hola$ y, además, explica que hace dicha expresión regular sobre el siguiente documento
+"Hola
+Hola ¿Qué tal?
+Hola y adiós"
+
+![alt text](images/7.png.png)
+
+En este caso la expresión hace match en el "Hola" de la primera línea, ya que empieza y acaba con esa palabra.
