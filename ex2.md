@@ -12,8 +12,8 @@ hola mundo
 hola mundo
 ```
 **Respuesta** regex
->((\w*)\s(\w*))
+>((\w*)\s(\w*)\n)(\w*)\s(\w*)
 
-**Respuesta** match:
->\u$1
+**Respuesta** replace:
+>\\u$1 \u$2\n\u$3 \u$4
 
